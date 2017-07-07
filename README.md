@@ -1,2 +1,2 @@
-# cs-cart-lib_newrelic
-Newrelic PHP agent &amp; browser integration for CS-Cart
+## Newrelic Agent + Browser Support for CS-Cart
+Calls browser scripts from the Newrelic PHP Agent and puts them into each storefront.
