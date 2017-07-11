@@ -27,7 +27,7 @@
 				<items>
 					<item id="nr_enable">
 						<name><![CDATA[Enable Addon?]]></name>
-						<tooltip><![CDATA[Allows you to enable/disable this addon on a per-store basis. Note, this will not enable newrelic PHP module/agent.]]></tooltip>
+						<tooltip><![CDATA[Allows you to enable/disable this addon on a per-store basis. Note, this will not enable the Newrelic PHP module/agent found on your server.]]></tooltip>
 						<type>checkbox</type>
 						<default_value>Y</default_value>
 					</item>
