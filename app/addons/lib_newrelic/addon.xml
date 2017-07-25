@@ -2,7 +2,6 @@
 <addon scheme="2.0" edition_type="ROOT,ULT:VENDOR">
 	<id>lib_newrelic</id>
 	<version>1.0</version>
-	<default_language>en</default_language>
 	<name>Library - Newrelic</name>
 	<description><![CDATA[Adds Newrelic browser monitoring &amp; other features. <a href="https://docs.newrelic.com/docs/agents/php-agent/features/page-load-timing-php#manual_instrumentation" target="_blank">More Info</a>.]]></description>
 	<priority>9999999</priority>
