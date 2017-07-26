@@ -23,8 +23,8 @@
 	</authors>
 	<settings layout="popup">
 		<sections>
-			<section id="main">
-				<name>Global</name>
+			<section id="general">
+				<name>General</name>
 				<items>
 					<item id="nr_enable">
 						<name><![CDATA[Enable Addon?]]></name>
